@@ -9,7 +9,7 @@ import { environment } from './environments/environment';
 if (environment.production) {
   enableProdMode();
 }
-twis
+w
 
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.log(err));
