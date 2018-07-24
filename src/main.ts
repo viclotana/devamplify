@@ -10,7 +10,6 @@ import { ASTWithSource } from '@angular/compiler';
 if (environment.production) {
   enableProdMode();
 }
-ASTWithSource.
 
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.log(err));
